@@ -4,4 +4,7 @@ def substraction(a,b):
     return a-b 
 def division (a,b):
     return a/b
+def hello(a,b):
+    return("hello")
+    
     
