@@ -5,7 +5,6 @@ def substraction(a,b):
 def division (a,b):
     return a/b
 def hello(a,b):
-    return("sabin")
-def raju(a,b):
-    return "raju"
+    return("hello")
+    
     
